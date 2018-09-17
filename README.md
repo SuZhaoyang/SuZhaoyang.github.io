@@ -1,3 +1,3 @@
 # ZhaoyangSu.github.io
 My personal index page
-Email: haiditiankong@gmail.com
+\n Email: haiditiankong@gmail.com
